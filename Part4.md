@@ -1,4 +1,13 @@
-# Part 4
+For more information:
+[Part1](part1.md)
+[Part2](part2.md)
+[Part3](part3.md)
+
+Part 4: 
+
+- [Lists](#Lists)
+- [Referencing issues and pull requests](Referencing-issues-and-pull-requests)
+- [Ignoring Markdown formatting](#Ignoring-Markdown-formatting)
 
 ## Lists
 
