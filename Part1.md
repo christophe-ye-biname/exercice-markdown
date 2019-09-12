@@ -3,9 +3,16 @@
 
 Create sophisticated formatting for your prose and code on GitHub with simple syntax.
 
-[The second part of our project](Part2.md)
-[The third part of our project](Part3.md)
-[The fourth part of our project](Part4.md)
+[Part 2](Part2.md)
+[Part 3](Part3.md)
+[Part 4](Part4.md)
+
+Part 1:
+
+[Headings](## Headings)
+[Styling text](##Styling)
+[Paragraphs and line breaks](require "Paragraphs and line breaks")
+
 
 
 ## Headings
@@ -13,7 +20,6 @@ Create sophisticated formatting for your prose and code on GitHub with simple sy
 To create a *heading*, add one to six \# symbols before your heading text. 
 The number of \# you use will determine the size of the heading.
 
-require "Headings"
 
 # The largest heading
 ## The second largest heading
