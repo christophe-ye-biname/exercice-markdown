@@ -3,9 +3,9 @@
 
 Create sophisticated formatting for your prose and code on GitHub with simple syntax.
 
-[The second part of our project](docs/Part2.md)
-[The third part of our project](docs/Part3.md)
-[The fourth part of our project](docs/Part4.md)
+[The second part of our project](Part2.md)
+[The third part of our project](Part3.md)
+[The fourth part of our project](Part4.md)
 
 
 ## Headings
