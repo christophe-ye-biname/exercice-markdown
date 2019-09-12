@@ -1,7 +1,7 @@
 # Part2
 
 -[Part 1](Part1.md)  
--Part 2
+-Part 2  
 -[Part 3](Part3.md)  
 -[Part 4](Part4.md)  
 
