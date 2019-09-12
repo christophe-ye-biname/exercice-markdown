@@ -50,4 +50,6 @@ You can add emoji to your writing by typing
 
 > @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
-typing >: will bring up a list of suggested emoji. The list will filter as you type, so once you find the emoji you're looking for, press __Tab__ or __Enter__ to complete the highlighted result.
+![](https://help.github.com/assets/images/help/writing/emoji-rendered.png)
+
+typing : will bring up a list of suggested emoji. The list will filter as you type, so once you find the emoji you're looking for, press __Tab__ or __Enter__ to complete the highlighted result.
