@@ -8,7 +8,7 @@ For more information:
 [Part 3](Part3.md)
 [Part 4](Part4.md)
 
-Part 1:
+**Part 1:**
 
 - [Headings](#Headings)
 - [Styling text](#Styling-text)
