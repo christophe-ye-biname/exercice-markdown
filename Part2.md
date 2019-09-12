@@ -1,16 +1,18 @@
 # The Markdown
 
-## How to quote some text you like
+## quoting
 
-you can quote text with ">a"
+### How to quote some text you like
+
+you can quote text with a ">"
 
 as becoders always say:
 
->a in code we trust
+> in code we trust
 
-## And if you whant to quote some code
+### And if you whant to quote some code
 
-you can use triple backtiks
+you can use triple backticks
 
 ```
 git add --all
