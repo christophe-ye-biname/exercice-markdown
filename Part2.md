@@ -25,7 +25,7 @@ and you can even add colour to make it nice to read:
 while(becodersAreWorking=true)
 {
   MarteauPiqueur=mute
-  breack
+  break
 }
 ```
 for more information checkout [Creating and highlighting code blocks](https://help.github.com/en/articles/creating-and-highlighting-code-blocks)
