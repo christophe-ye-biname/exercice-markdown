@@ -1,6 +1,6 @@
 # Part2
 
-For more information: [Part 1](Part1.md) [Part 3](Part3.md) [Part 4](Part4.md)
+For more information: [Part 1](Part1.md) - [Part 3](Part3.md) - [Part 4](Part4.md)
 
 Part2:  
 
