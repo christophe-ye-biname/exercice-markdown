@@ -3,10 +3,10 @@
 **Welcome to our presentation of MarkDown;)**
 
 If you want to get information about
-- Headings, Styling text or Paragraphs and line breaks click [ici Part 1](part1.md)
-- Quoting, Content attachments or Using emoji click [ici Part 2](part2.md)
-- Links, Mentioning people and teams click [ici Part 3](part3.md)
-- Lists, Referencing issues and pull requests or Ignoring Markdown formatting click [ici Part 4](part4.md)
+- Headings, Styling text or Paragraphs and line breaks click [ici Part 1](Part1.md)
+- Quoting, Content attachments or Using emoji click [ici Part 2](Part2.md) 
+- Links, Mentioning people and teams click [ici Part 3](Part3.md)
+- Lists, Referencing issues and pull requests or Ignoring Markdown formatting click [ici Part 4](Part4.md)
 
 ## Who?
 Our team:
