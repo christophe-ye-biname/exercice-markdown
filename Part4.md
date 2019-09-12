@@ -1,7 +1,7 @@
 For more information:
-[Part1](part1.md)
-[Part2](part2.md)
-[Part3](part3.md)
+[Part1](Part1.md)
+[Part2](Part2.md)
+[Part3](Part3.md)
 
 Part 4: 
 
