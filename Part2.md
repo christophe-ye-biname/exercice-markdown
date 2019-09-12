@@ -27,7 +27,7 @@ for more information checkout [Creating and highlighting code blocks](https://he
 
 Some GitHub Apps provide information in GitHub for URLs that link to their registered domains. GitHub renders the information provided by the app under the URL in the body or comment of an issue or pull request.
 
-(https://help.github.com/assets/images/help/writing/content-attachment.png)
+![](https://help.github.com/assets/images/help/writing/content-attachment.png)
 
 To see content attachments, you must have a GitHub App that uses the Content Attachments API installed on the repository. For more information, see ["Installing an app in your personal account"](https://help.github.com/en/articles/installing-an-app-in-your-personal-account) and ["Installing an app in your organization."](https://help.github.com/en/articles/installing-an-app-in-your-organization)    
 
@@ -37,8 +37,9 @@ For more information about building a GitHub App that uses content attachments, 
 
 ## Using emoji
 
-You can add emoji to your writing by typing >:EMOJICODE:
+You can add emoji to your writing by typing
+>:EMOJICODE:  
 
 > @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
-typing >: will bring up a list of suggested emoji. The list will filter as you type, so once you find the emoji you're looking for, press __Tab__ or __Enter__ to complete the highlighted result. 
+typing >: will bring up a list of suggested emoji. The list will filter as you type, so once you find the emoji you're looking for, press __Tab__ or __Enter__ to complete the highlighted result.
