@@ -9,9 +9,9 @@ Create sophisticated formatting for your prose and code on GitHub with simple sy
 
 Part 1:
 
-[Headings](#Headings)
-[Styling text](#Styling-text)
-[Paragraphs and line breaks](require "Paragraphs and line breaks")
+- [Headings](#Headings)
+- [Styling text](#Styling-text)
+- [Paragraphs and line breaks](#Paragraphs-and-line-breaks")
 
 
 
