@@ -3,6 +3,7 @@
 
 Create sophisticated formatting for your prose and code on GitHub with simple syntax.
 
+For more information:
 [Part 2](Part2.md)
 [Part 3](Part3.md)
 [Part 4](Part4.md)
@@ -11,7 +12,7 @@ Part 1:
 
 - [Headings](#Headings)
 - [Styling text](#Styling-text)
-- [Paragraphs and line breaks](#Paragraphs-and-line-breaks")
+- [Paragraphs and line breaks](#Paragraphs-and-line-breaks)
 
 
 
