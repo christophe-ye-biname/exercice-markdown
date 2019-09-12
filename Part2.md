@@ -1,5 +1,7 @@
 # Part2
 
+[autre fichier](docs/Part4.md)
+
 ## quoting
 
 ### How to quote some text you like
